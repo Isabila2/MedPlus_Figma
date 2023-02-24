@@ -1,6 +1,8 @@
 ## `Med+`_Figma
 Somos um grupo de estudantes do SENAI e estamos desenvolvento um projeto que tem como objetivo auxiliar no agendamento de exames consultas e cirurgias de uma clinica medica, atendendo de forma simples facil e rapida a demanda dos nossos clientes
-`HOME PAGE`
+
+
+
 ![Home Page PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Home%20Page%20Celular.png) 
 
  `ESPECIALIDADES`
