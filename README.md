@@ -1,16 +1,21 @@
 ## `Med+`_Figma
 
-![Home Page PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Home%20Page%20Celular.png) `HOME PAGE`
+`HOME PAGE`
+![Home Page PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Home%20Page%20Celular.png) 
 
+ `ESPECIALIDADES`
+![Especialidades PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Celular%20Especialidades.png)
 
-![Especialidades PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Celular%20Especialidades.png) `ESPECIALIDADES`
+`CIRURGIAS`
+![Cirurgias PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Cirugias%20Celular.png) 
 
-![Cirurgias PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Cirugias%20Celular.png) `CIRURGIAS`
+`EXAMES`
+![Exames PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Celular%20Exames.png) 
 
-![Exames PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Celular%20Exames.png) `EXAMES`
+`UNIDADES`
+![Unidades PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Celular%20Unidades.png) 
 
-![Unidades PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Celular%20Unidades.png) `UNIDADES`
-
-![Consultas PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Consultas%20Celular.png) `CONSULTAS`
+`CONSULTAS`
+![Consultas PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Consultas%20Celular.png) 
 
 
