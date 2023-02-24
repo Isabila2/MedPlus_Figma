@@ -1,1 +1,1 @@
-# `MedPlus`_Figma
+# `Med+`_Figma
