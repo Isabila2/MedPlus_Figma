@@ -30,4 +30,5 @@
 
 `CONSULTAS`![Consultas PNG](https://github.com/Isabila2/MedPlus_Figma/blob/main/Celular%20prints%20MED%2B/Consultas%20Celular.png) 
 
-
+>Revisado - 2023-02-28 - Marcio
+>>![SENAI CFP 5.12 Celso Charuri](https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png)
